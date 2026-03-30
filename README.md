@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://getkronk.com/vscode-1.png" alt="Kronk CMS - VS Code Plugin" width="800">
+  <img src="https://getkronk.com/assets/images/kronk-screenshots/vscode-1.png" alt="Kronk CMS - VS Code Plugin" width="800">
 </p>
 
 ---
